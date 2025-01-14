@@ -6,7 +6,7 @@ use mysqli;
 
 $servername = "localhost";
 $username = "root";
-$password = "gabriel1234d";
+$password = "YourPassword";
 $dbname = "w3";
 
 define ('ITENS', [
